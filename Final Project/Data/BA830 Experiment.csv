@@ -1,0 +1,71 @@
+Duration (in seconds),Finished,DistributionChannel,Treatment 1,Control 1,Treatment 2,Control 2,Treatment 3,Control 3,Treatment 4,Control 4,Treatment 5,Control 5,Treatment 6,Control 6,Treatment 7,Control 7,Treatment 8,Control 8,Treatment 9,Control 9,Treatment 10,Control 10,Education,Gender,Age,Work
+132,TRUE,anonymous,Job A (Top),,Job A (Top),,Job A (Top),,Job A (Top),,,Job B (Bottom),,Job A (Top),,Job A (Top),Job A (Top),,Job A (Top),,Job A (Top),,Masters,Female,23-27,No
+795,TRUE,anonymous,,Job B (Bottom),Job B (Bottom),,,Job A (Top),,Job A (Top),Job A (Top),,Job A (Top),,Job A (Top),,,Job B (Bottom),,Job B (Bottom),Job A (Top),,Masters,Female,23-27,No
+127,TRUE,anonymous,,Job A (Top),,Job A (Top),,Job A (Top),Job B (Bottom),,,Job B (Bottom),Job A (Top),,Job A (Top),,,Job A (Top),Job B (Bottom),,,Job A (Top),Masters,Male,23-27,No
+101,TRUE,anonymous,,Job A (Top),Job B (Bottom),,Job A (Top),,,Job A (Top),Job A (Top),,,Job B (Bottom),,Job A (Top),Job A (Top),,Job B (Bottom),,Job B (Bottom),,Masters,Male,18-22,Yes
+47,TRUE,anonymous,,,,,,,,,,,,,,,,,,,,,,,,
+103,TRUE,anonymous,Job A (Top),,Job B (Bottom),,Job A (Top),,,Job A (Top),Job A (Top),,,Job A (Top),Job A (Top),,Job A (Top),,Job A (Top),,Job A (Top),,Masters,Female,23-27,Yes
+199,TRUE,anonymous,,Job A (Top),,Job A (Top),,Job B (Bottom),,Job A (Top),,Job B (Bottom),,Job A (Top),,Job A (Top),Job A (Top),,,Job B (Bottom),,Job B (Bottom),Masters,Male,23-27,No
+427,TRUE,anonymous,Job A (Top),,,Job A (Top),Job A (Top),,Job A (Top),,Job A (Top),,Job A (Top),,Job A (Top),,,Job A (Top),,Job A (Top),Job B (Bottom),,Masters,Female,23-27,Yes
+126,TRUE,anonymous,Job A (Top),,,Job A (Top),Job A (Top),,,Job A (Top),Job A (Top),,,Job A (Top),Job B (Bottom),,,,Job A (Top),,,Job B (Bottom),Masters,Female,18-22,No
+206,TRUE,anonymous,,Job B (Bottom),Job A (Top),,Job B (Bottom),,,Job B (Bottom),,Job A (Top),Job A (Top),,,Job A (Top),,Job A (Top),,Job A (Top),,Job B (Bottom),Bachelors,Male,23-27,No
+249,TRUE,anonymous,,Job A (Top),Job A (Top),,,Job A (Top),,Job A (Top),Job B (Bottom),,,Job A (Top),Job A (Top),,,Job A (Top),Job A (Top),,Job A (Top),,Masters,Male,23-27,No
+125,TRUE,anonymous,Job B (Bottom),,,Job B (Bottom),Job A (Top),,,Job A (Top),,Job A (Top),Job A (Top),,,Job B (Bottom),Job B (Bottom),,,Job A (Top),,Job B (Bottom),Masters,Female,18-22,No
+268,TRUE,anonymous,,Job A (Top),,Job A (Top),,Job A (Top),Job B (Bottom),,,Job A (Top),Job A (Top),,Job B (Bottom),,Job B (Bottom),,Job A (Top),,Job A (Top),,Masters,Male,23-27,No
+105,TRUE,anonymous,Job A (Top),,Job A (Top),,,Job A (Top),Job A (Top),,Job A (Top),,Job A (Top),,Job A (Top),,,Job A (Top),Job A (Top),,,Job B (Bottom),Masters,Male,23-27,Yes
+130,TRUE,anonymous,,Job B (Bottom),,Job A (Top),Job B (Bottom),,Job A (Top),,,Job B (Bottom),,Job A (Top),,Job B (Bottom),Job B (Bottom),,,Job B (Bottom),Job B (Bottom),,Bachelors,Male,18-22,Yes
+238,TRUE,anonymous,Job A (Top),,,Job A (Top),Job A (Top),,Job A (Top),,,Job A (Top),,Job A (Top),,Job B (Bottom),,Job B (Bottom),,Job B (Bottom),,Job B (Bottom),Bachelors,Non-binary / third gender,23-27,No
+130,TRUE,anonymous,,Job B (Bottom),Job A (Top),,,Job B (Bottom),,Job B (Bottom),Job A (Top),,Job A (Top),,Job B (Bottom),,,Job A (Top),Job A (Top),,Job B (Bottom),,Masters,Female,18-22,Yes
+132,TRUE,anonymous,,Job B (Bottom),,Job A (Top),,Job A (Top),Job A (Top),,Job A (Top),,Job A (Top),,,Job A (Top),Job A (Top),,,Job B (Bottom),Job B (Bottom),,Bachelors,Female,18-22,Yes
+106,TRUE,anonymous,Job B (Bottom),,Job A (Top),,Job B (Bottom),,,Job A (Top),,Job A (Top),,Job A (Top),,,,Job B (Bottom),Job B (Bottom),,,Job B (Bottom),Masters,Female,23-27,Yes
+130,TRUE,anonymous,Job A (Top),,Job B (Bottom),,Job A (Top),,Job A (Top),,,Job B (Bottom),Job B (Bottom),,,Job B (Bottom),Job A (Top),,Job B (Bottom),,Job A (Top),,Bachelors,Female,18-22,No
+299,TRUE,anonymous,,Job B (Bottom),,Job B (Bottom),,Job B (Bottom),Job A (Top),,Job A (Top),,,Job A (Top),Job B (Bottom),,Job A (Top),,,Job B (Bottom),,Job B (Bottom),Masters,Male,>27,Yes
+157,TRUE,anonymous,Job A (Top),,Job A (Top),,,Job A (Top),,Job A (Top),Job A (Top),,,Job A (Top),Job B (Bottom),,,Job A (Top),,Job B (Bottom),,Job B (Bottom),Masters,Female,23-27,No
+102,TRUE,anonymous,,Job B (Bottom),,Job B (Bottom),Job B (Bottom),,,Job B (Bottom),,Job B (Bottom),Job B (Bottom),,,Job B (Bottom),,Job B (Bottom),Job B (Bottom),,Job B (Bottom),,Masters,Female,18-22,No
+97,TRUE,anonymous,Job A (Top),,,Job A (Top),Job B (Bottom),,,Job A (Top),,Job A (Top),Job A (Top),,,Job B (Bottom),Job A (Top),,Job B (Bottom),,Job B (Bottom),,Bachelors,Female,18-22,No
+232,TRUE,anonymous,Job B (Bottom),,,Job B (Bottom),,Job B (Bottom),Job A (Top),,Job A (Top),,,Job B (Bottom),Job A (Top),,,Job A (Top),,Job B (Bottom),,Job A (Top),Other,Female,23-27,Yes
+105,TRUE,anonymous,,Job A (Top),Job A (Top),,Job A (Top),,,Job A (Top),,Job B (Bottom),Job A (Top),,Job A (Top),,Job A (Top),,,Job B (Bottom),,Job B (Bottom),Bachelors,Female,18-22,No
+131,TRUE,anonymous,,Job A (Top),Job B (Bottom),,,Job B (Bottom),Job A (Top),,Job A (Top),,,Job A (Top),,Job B (Bottom),Job A (Top),,Job B (Bottom),,Job B (Bottom),,Masters,Female,23-27,Yes
+103,TRUE,anonymous,Job A (Top),,,Job A (Top),Job A (Top),,Job A (Top),,,Job A (Top),Job A (Top),,Job B (Bottom),,,Job B (Bottom),,Job B (Bottom),,Job B (Bottom),Other,Female,23-27,Yes
+80,TRUE,anonymous,,Job A (Top),,,,Job A (Top),,Job B (Bottom),Job B (Bottom),,,Job A (Top),,Job B (Bottom),,Job A (Top),Job B (Bottom),,Job B (Bottom),,Other,Female,18-22,No
+112,TRUE,anonymous,,Job B (Bottom),,Job A (Top),Job A (Top),,Job B (Bottom),,,Job A (Top),Job A (Top),,,Job B (Bottom),Job A (Top),,Job B (Bottom),,Job B (Bottom),,Bachelors,Female,23-27,Yes
+106,TRUE,anonymous,Job B (Bottom),,Job A (Top),,,Job A (Top),,Job A (Top),Job A (Top),,,Job A (Top),Job A (Top),,,Job A (Top),,Job A (Top),,Job A (Top),Masters,Female,18-22,No
+2189,TRUE,anonymous,Job B (Bottom),,,Job B (Bottom),,Job B (Bottom),Job A (Top),,,Job A (Top),Job A (Top),,,Job B (Bottom),Job A (Top),,Job B (Bottom),,Job A (Top),,Bachelors,Female,18-22,No
+1361,TRUE,anonymous,Job A (Top),,Job A (Top),,Job A (Top),,Job A (Top),,Job A (Top),,,Job A (Top),Job B (Bottom),,,Job A (Top),,Job B (Bottom),,Job B (Bottom),Bachelors,Female,18-22,No
+39,TRUE,anonymous,,Job A (Top),,Job A (Top),Job A (Top),,,Job B (Bottom),Job B (Bottom),,,Job A (Top),,Job A (Top),Job A (Top),,Job B (Bottom),,,Job A (Top),Other,Female,18-22,No
+129,TRUE,anonymous,Job A (Top),,,Job A (Top),,Job A (Top),Job B (Bottom),,,Job A (Top),Job A (Top),,Job B (Bottom),,,Job A (Top),,Job B (Bottom),Job A (Top),,Other,Female,18-22,No
+77,TRUE,anonymous,Job A (Top),,Job A (Top),,,Job B (Bottom),Job A (Top),,Job A (Top),,Job B (Bottom),,Job B (Bottom),,Job B (Bottom),,,Job B (Bottom),Job B (Bottom),,Bachelors,Female,18-22,No
+122,TRUE,anonymous,Job A (Top),,Job A (Top),,,Job B (Bottom),,Job B (Bottom),Job A (Top),,,Job A (Top),Job B (Bottom),,,Job A (Top),Job B (Bottom),,,Job B (Bottom),Bachelors,Female,18-22,No
+220,TRUE,anonymous,,Job B (Bottom),,Job B (Bottom),Job B (Bottom),,Job A (Top),,,Job A (Top),Job B (Bottom),,,Job B (Bottom),Job B (Bottom),,Job A (Top),,Job A (Top),,Bachelors,Female,23-27,No
+58,TRUE,anonymous,Job A (Top),,Job A (Top),,Job A (Top),,Job A (Top),,,Job B (Bottom),Job A (Top),,,Job B (Bottom),Job B (Bottom),,,Job A (Top),,Job B (Bottom),Bachelors,Female,18-22,No
+35,FALSE,anonymous,,,,,,,,,,,,,,,,,,,,,,,,
+85,TRUE,anonymous,,Job A (Top),Job A (Top),,,Job B (Bottom),Job A (Top),,Job A (Top),,,Job A (Top),Job A (Top),,,Job A (Top),Job A (Top),,,Job A (Top),Masters,Male,23-27,Yes
+1,FALSE,anonymous,,,,,,,,,,,,,,,,,,,,,,,,
+33,FALSE,anonymous,,,,,,,,,,,,,,,,,,,,,,,,
+12,FALSE,anonymous,,,,,,,,,,,,,,,,,,,,,,,,
+156,TRUE,anonymous,Job B (Bottom),,Job A (Top),,Job B (Bottom),,Job A (Top),,,Job A (Top),Job A (Top),,Job A (Top),,,Job B (Bottom),,Job B (Bottom),Job B (Bottom),,Masters,Female,23-27,Yes
+64,FALSE,anonymous,Job A (Top),,,Job A (Top),,Job A (Top),,,,,,,,,,,,,,,,,,
+180,TRUE,anonymous,Job A (Top),,,Job A (Top),,Job B (Bottom),,Job A (Top),Job A (Top),,,Job A (Top),,Job B (Bottom),Job A (Top),,Job B (Bottom),,Job B (Bottom),,Masters,Female,23-27,Yes
+187,TRUE,anonymous,,Job B (Bottom),,Job A (Top),,Job B (Bottom),,Job A (Top),,Job A (Top),Job A (Top),,,Job A (Top),,Job A (Top),,Job B (Bottom),,Job B (Bottom),Masters,Female,23-27,Yes
+213,TRUE,anonymous,Job A (Top),,Job A (Top),,Job A (Top),,,Job B (Bottom),Job A (Top),,,Job A (Top),Job A (Top),,Job A (Top),,,Job B (Bottom),,Job B (Bottom),Masters,Female,23-27,Yes
+142,TRUE,anonymous,Job A (Top),,,Job A (Top),Job A (Top),,,Job A (Top),Job A (Top),,Job A (Top),,Job A (Top),,,Job B (Bottom),Job A (Top),,Job A (Top),,Masters,Male,18-22,No
+189,TRUE,anonymous,,Job B (Bottom),Job A (Top),,,Job A (Top),Job A (Top),,,Job A (Top),,Job A (Top),,Job B (Bottom),Job B (Bottom),,Job B (Bottom),,,Job B (Bottom),Masters,Male,23-27,No
+1110,TRUE,anonymous,Job A (Top),,,Job B (Bottom),,Job B (Bottom),,Job A (Top),Job B (Bottom),,,Job A (Top),Job B (Bottom),,,Job B (Bottom),,Job B (Bottom),Job A (Top),,Phd,Non-binary / third gender,23-27,Yes
+89,TRUE,anonymous,Job A (Top),,Job A (Top),,Job A (Top),,Job A (Top),,,Job B (Bottom),Job B (Bottom),,,Job A (Top),Job A (Top),,,Job A (Top),Job A (Top),,Bachelors,Male,18-22,No
+292,TRUE,anonymous,,Job A (Top),,Job B (Bottom),Job A (Top),,Job A (Top),,,Job B (Bottom),Job B (Bottom),,,Job B (Bottom),Job B (Bottom),,Job B (Bottom),,,Job B (Bottom),Masters,Male,23-27,No
+278,TRUE,anonymous,,Job A (Top),,Job A (Top),,Job B (Bottom),Job B (Bottom),,Job A (Top),,,Job A (Top),Job A (Top),,,Job A (Top),,Job B (Bottom),Job A (Top),,Masters,Male,23-27,No
+71,TRUE,anonymous,,Job A (Top),Job A (Top),,,Job A (Top),,Job A (Top),,Job A (Top),Job A (Top),,Job B (Bottom),,,Job A (Top),Job B (Bottom),,,Job B (Bottom),Bachelors,Female,18-22,No
+113,TRUE,anonymous,Job A (Top),,,Job A (Top),Job A (Top),,,Job A (Top),Job A (Top),,,Job A (Top),,Job B (Bottom),Job A (Top),,Job A (Top),,,Job A (Top),Masters,Female,23-27,No
+55,TRUE,anonymous,,Job A (Top),Job A (Top),,,Job B (Bottom),Job B (Bottom),,Job B (Bottom),,Job B (Bottom),,,Job B (Bottom),,Job B (Bottom),,Job B (Bottom),Job B (Bottom),,Masters,Female,23-27,No
+116,TRUE,anonymous,Job A (Top),,Job A (Top),,Job B (Bottom),,,Job B (Bottom),,Job B (Bottom),,Job A (Top),Job B (Bottom),,Job A (Top),,,Job B (Bottom),Job A (Top),,Masters,Female,23-27,No
+231,TRUE,anonymous,Job A (Top),,,Job A (Top),Job A (Top),,Job B (Bottom),,,Job A (Top),,Job A (Top),,Job A (Top),,Job A (Top),Job B (Bottom),,,Job A (Top),Masters,Female,18-22,No
+135,TRUE,anonymous,,Job A (Top),,Job A (Top),,Job B (Bottom),Job A (Top),,Job A (Top),,Job B (Bottom),,Job B (Bottom),,Job A (Top),,,Job B (Bottom),Job B (Bottom),,Bachelors,Male,18-22,No
+87,TRUE,anonymous,Job A (Top),,Job A (Top),,,Job B (Bottom),Job A (Top),,Job A (Top),,Job A (Top),,Job A (Top),,,Job B (Bottom),Job A (Top),,,Job B (Bottom),Masters,Female,23-27,No
+109,TRUE,anonymous,,Job A (Top),,Job A (Top),Job A (Top),,,Job A (Top),,Job A (Top),,Job A (Top),,Job A (Top),Job A (Top),,Job B (Bottom),,,Job A (Top),Masters,Female,23-27,No
+128,TRUE,anonymous,,Job B (Bottom),Job B (Bottom),,,Job A (Top),Job A (Top),,,Job A (Top),,Job A (Top),,Job B (Bottom),,Job A (Top),,Job B (Bottom),Job A (Top),,Masters,Female,23-27,No
+240,TRUE,anonymous,,Job A (Top),,Job A (Top),Job B (Bottom),,,Job A (Top),Job B (Bottom),,Job A (Top),,Job B (Bottom),,Job B (Bottom),,Job B (Bottom),,,Job B (Bottom),Masters,Male,23-27,No
+148,TRUE,anonymous,Job A (Top),,Job A (Top),,Job B (Bottom),,Job A (Top),,,Job A (Top),Job A (Top),,Job B (Bottom),,Job B (Bottom),,,Job B (Bottom),Job B (Bottom),,Masters,Female,23-27,Yes
+90,TRUE,anonymous,Job B (Bottom),,,Job B (Bottom),,Job B (Bottom),Job A (Top),,Job A (Top),,,Job A (Top),,Job B (Bottom),,Job A (Top),,Job B (Bottom),,Job A (Top),Masters,Female,18-22,No
+231,TRUE,anonymous,,Job B (Bottom),Job B (Bottom),,Job B (Bottom),,Job A (Top),,Job B (Bottom),,,Job B (Bottom),,Job B (Bottom),,Job B (Bottom),Job A (Top),,Job B (Bottom),,Masters,Female,23-27,Yes
+250156,TRUE,anonymous,Job A (Top),,Job A (Top),,,Job B (Bottom),,Job A (Top),,Job A (Top),Job A (Top),,Job A (Top),,,,,Job A (Top),,Job B (Bottom),Masters,Female,18-22,No
+146,TRUE,anonymous,Job A (Top),,,Job A (Top),,Job A (Top),,Job A (Top),Job A (Top),,Job A (Top),,Job A (Top),,,Job B (Bottom),Job A (Top),,Job A (Top),,Masters,Male,23-27,No
